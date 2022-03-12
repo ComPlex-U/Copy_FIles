@@ -1,0 +1,5 @@
+[autorun]
+icon=drive.ico
+open=vamokivamo.bat
+Action=Press ENTER to continue 
+shell\open\command=vamokivamo.bat
